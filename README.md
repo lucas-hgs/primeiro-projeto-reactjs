@@ -1,5 +1,7 @@
 <img alt="GoStack" src="/src/assets/desafio.png" />
 
+<img alt="Project Gif" src="/src/assets/project.gif" />
+
 <h3 align="center">
   Módulo: Primeiro Projeto com React
 </h3>
