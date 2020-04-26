@@ -4,7 +4,7 @@
   Módulo: Primeiro Projeto com React
 </h3>
 
-## :rocket: Sobre o desafio
+## :rocket: Sobre o projeto
 
 Nesse módulo, foi iniciado os estudos do ReactJS, criando o primeiro projeto já utilizando TypeScript.
 
